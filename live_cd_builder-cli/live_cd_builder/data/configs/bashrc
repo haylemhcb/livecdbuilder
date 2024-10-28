@@ -1,0 +1,8 @@
+
+
+
+#apt -y install ./*.deb
+
+dpkg -i /tmp/*.deb
+
+exit 0

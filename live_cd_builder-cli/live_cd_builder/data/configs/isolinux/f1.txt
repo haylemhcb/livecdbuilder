@@ -1,0 +1,15 @@
+                  0f­Bienvenido a Debian GNU/Linux!07                               09F107
+
+Esto es un Disco Live de Linux.
+
+0fMEN£ DE AYUDA07
+
+0fTECLA    TEMA07
+<09F107>   Esta p gina, el ¡ndice.
+
+Para la tecla F1 pulse control y F y despu‚s el d¡gito 1
+
+
+
+
+Pulse de F1 para obtener mas detalles, o ENTER para continuar.
